@@ -87,7 +87,7 @@ html {
     margin-right: 15px;
 }
 
-#header .nav-bar .right-sec .log-in:hover {
+#header .nav-bar .right-sec .log-in:active {
     background-color: #01b289;
     color: #fff;
 }
@@ -106,7 +106,7 @@ html {
     cursor: pointer;
 }
 
-#header .nav-bar .right-sec .start-free:hover {
+#header .nav-bar .right-sec .start-free:active {
     background-color: #0a8a6c;
 }
 
